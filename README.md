@@ -26,3 +26,4 @@ A chrome extension that reminds the user to take regular breaks for drinking wat
 1. Javascript and jquery
 2. Html
 3. Css
+4. Chrome APIs
