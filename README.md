@@ -2,7 +2,6 @@
 An all-in-one utility Chrome extension for everyone!
 A chrome extension that reminds the user to take regular breaks for drinking water, do some yoga, and listen to some music and also suggests yoga positions, music playlists, and a randomly generated quote! <br>
 
-**:2nd_place_medal: Runner-up at Mozohack 2.1 organized by SRMKZILLA team! :partying_face:** <br>
 
 <hr>
 
